@@ -1,8 +1,7 @@
-hello ini adalah hari pertama ssya belajar linux
-hari ini saya mencoba perintah
+Linux (atau GNU/Linux, lihat kontroversi penamaannya) adalah nama yang diberikan kepada kumpulan sistem operasi Mirip-Unix yang menggunakan Kernel Linux sebagai kernelnya. Linux merupakan proyek perangkat lunak bebas dan sumber terbuka terbesar di dunia.[1] Seperti perangkat lunak bebas dan sumber terbuka lainnya pada umumnya, kode sumber Linux dapat dimodifikasi, digunakan dan didistribusikan kembali secara bebas oleh siapa saja.[2]
 
-ls
-tree
-mkdir
-rm
-rmdir
+Linux telah lama dikenal sebagai sistem yang fleksibel dan aman untuk penggunaan di peladen-peladen serta banyak didukung oleh perusahan-perusahaan komputer terkenal seperti Intel, Dell, Hewlett-Packard, IBM, Novell, Oracle Corporation, Red Hat, dan Sun Microsystems. Linux digunakan sebagai sistem operasi di berbagai macam jenis perangkat keras komputer, termasuk komputer desktop, superkomputer,[3], dan sistem benam seperti pembaca buku elektronik, sistem permainan video (PlayStation 2, PlayStation 3 dan XBox[4]), telepon pintar berbasis Android dan router.
+
+Berbagai pengamat teknologi informasi menganggaap bahwa kesuksesan Linux dikarenakan distribusi Linux tidak bergantung pada vendor, biaya operasional yang rendah, dan kompatibilitas yang tinggi dibandingkan sistem operasi Unix tak bebas, serta faktor keamanan dan kestabilannya yang tinggi dibandingkan dengan sistem operasi lainnya seperti Microsoft Windows. Ciri-ciri ini juga menjadi bukti atas keunggulan model perangkat lunak sumber terbuka.
+
+Dalam Linux, dikenal istilah distribusi Linux (atau sering disebut distro Linux). Mereka merupakan sistem-sistem operasi Linux yang dasarnya dari Kernel Linux dan sistem manajemen paket (biasanya). Contoh dari distro Linux seperti: Debian GNU/Linux, Ubuntu, Linux Mint, Red Hat Enterprise Linux, Fedora, CentOS, dll.
